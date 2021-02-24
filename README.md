@@ -1,14 +1,14 @@
 ### Reference:  
 Ch1, Head First Design Patterns, 2nd Edition by Elisabeth Robson; Eric Freeman.
 ## OO Basics
-Abstraction
-Encapsulation
-Polymorphism
+Abstraction   
+Encapsulation  
+Polymorphism  
 Inheritance.
 
 ## OO Principles
-Excapsulate what varies
-Favor composition over inheritance
+Excapsulate what varies  
+Favor composition over inheritance  
 Program to interfaces, not implementations.
 
 ## Startegy Pattern
