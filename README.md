@@ -15,7 +15,7 @@ Program to interfaces, not implementations.
 It defines a family of algorithms,
 encapsulates each one,
 and makes them interchangeable.
-Strategy lets the algirhtms vary independently from clients that use it.
+Strategy lets the algirhtms vary independently from clients that use it.  
 e.g. encapsulate the set of concrete classes in a group of interface class -> abstract class -> interface -> set of classes the specific class inherits the abstract class, implement the behavior by setting at runtime.
 
 # DuckNQuiz.
