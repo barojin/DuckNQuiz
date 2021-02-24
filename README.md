@@ -1,3 +1,5 @@
+Reference:
+Ch1, Head First Design Patterns, 2nd Edition by Elisabeth Robson; Eric Freeman
 ## OO Basics
 Abstraction
 Encapsulation
