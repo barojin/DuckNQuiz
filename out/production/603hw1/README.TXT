@@ -15,5 +15,3 @@ command that 'java -jar 603hw1_jar' on the terminal.
 
 PS.
 The java files in duck was written based on the example in Head First: Design Patterns, ch1.
-
-
