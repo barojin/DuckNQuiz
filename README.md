@@ -1,5 +1,5 @@
-Reference:
-Ch1, Head First Design Patterns, 2nd Edition by Elisabeth Robson; Eric Freeman
+### Reference:  
+Ch1, Head First Design Patterns, 2nd Edition by Elisabeth Robson; Eric Freeman.
 ## OO Basics
 Abstraction
 Encapsulation
@@ -27,4 +27,4 @@ Therefore I made the abstract class before accessing the interface that are main
 
 How to run on mac: in the path './603hw1/out/artifacts/' command that 'java -jar 603hw1_jar' on the terminal.
 
-![Image of class diagram](class_diagram.png)
+![Image of class diagram](class_diagram.png) Figure1 in Head First Design Patterns.
